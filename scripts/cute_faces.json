@@ -1,0 +1,44 @@
+[
+ {
+  "id": "cute_happy",
+  "name": "Bé hí hửng",
+  "description": "Mắt long lanh xanh ngọc, má hồng và miệng cười nhỏ.",
+  "color": "#8de5e3"
+ },
+ {
+  "id": "cute_shy",
+  "name": "Bé ngại ngùng",
+  "description": "Mắt hồng hơi khép, má ửng đỏ, miệng chữ w.",
+  "color": "#ffb5cf"
+ },
+ {
+  "id": "cute_curious",
+  "name": "Bé tò mò",
+  "description": "Mắt to nhỏ tinh nghịch, miệng tròn xíu và tia lấp lánh.",
+  "color": "#ffda8c"
+ },
+ {
+  "id": "cute_sleepy",
+  "name": "Bé buồn ngủ",
+  "description": "Mắt tím lim dim, má mềm và chữ z lơ lửng.",
+  "color": "#c8b8f6"
+ },
+ {
+  "id": "cute_love",
+  "name": "Bé thương anh",
+  "description": "Hai mắt trái tim hồng và nụ cười bé xíu.",
+  "color": "#ff8fb6"
+ },
+ {
+  "id": "cute_wink",
+  "name": "Bé nháy mắt",
+  "description": "Một mắt long lanh, một mắt nháy cùng má hồng.",
+  "color": "#a4e9b9"
+ },
+ {
+  "id": "cute_sad",
+  "name": "Bé buồn nhẹ",
+  "description": "Mắt đào hơi cụp, mày lo lắng và miệng buồn nhỏ.",
+  "color": "#f6b5a7"
+ }
+]
