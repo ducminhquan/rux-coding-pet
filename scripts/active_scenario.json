@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "voice": "thuy-duyen",
+  "states": {
+    "working": {
+      "face": "working",
+      "motion": 7,
+      "ears": 1,
+      "angle": 45,
+      "repeat": 30,
+      "motion2": 0
+    },
+    "attention": {
+      "face": "attention",
+      "motion": 32,
+      "ears": 2,
+      "angle": 45,
+      "repeat": 30,
+      "motion2": 0
+    },
+    "completed": {
+      "face": "completed",
+      "motion": 59,
+      "ears": 2,
+      "angle": 45,
+      "repeat": 0,
+      "motion2": 0
+    },
+    "idle": {
+      "face": "idle",
+      "motion": 20,
+      "ears": 0,
+      "angle": 20,
+      "repeat": 0,
+      "motion2": 0
+    },
+    "failed": {
+      "face": "failed",
+      "motion": 27,
+      "ears": 1,
+      "angle": 20,
+      "repeat": 20,
+      "motion2": 0
+    }
+  }
+}

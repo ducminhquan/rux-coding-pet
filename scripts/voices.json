@@ -1,0 +1,42 @@
+[
+  {
+    "id": "diem-my",
+    "name": "Diễm My",
+    "provider": "Viettel AI",
+    "region": "Nữ miền Nam",
+    "asset": "voice-diem-my.wav",
+    "source": "https://viettelai.vn/chuyen-giong-noi"
+  },
+  {
+    "id": "phuong-ly",
+    "name": "Phương Ly",
+    "provider": "Viettel AI",
+    "region": "Nữ miền Nam",
+    "asset": "voice-phuong-ly.wav",
+    "source": "https://viettelai.vn/chuyen-giong-noi"
+  },
+  {
+    "id": "thuy-dung",
+    "name": "Thùy Dung",
+    "provider": "Viettel AI",
+    "region": "Nữ miền Nam",
+    "asset": "voice-thuy-dung.wav",
+    "source": "https://viettelai.vn/chuyen-giong-noi"
+  },
+  {
+    "id": "le-yen",
+    "name": "Lê Yến",
+    "provider": "Viettel AI",
+    "region": "Nữ miền Nam",
+    "asset": "voice-le-yen.wav",
+    "source": "https://viettelai.vn/chuyen-giong-noi"
+  },
+  {
+    "id": "thuy-duyen",
+    "name": "Thùy Duyên",
+    "provider": "Viettel AI",
+    "region": "Nữ miền Nam",
+    "asset": "voice-thuy-duyen.wav",
+    "source": "https://viettelai.vn/chuyen-giong-noi"
+  }
+]
