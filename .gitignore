@@ -1,0 +1,31 @@
+# Generated output and local state
+/build/
+/dist/
+/github/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+local.properties
+# Local dependencies and device resources
+/vendor/*.aar
+/vendor/*.jar
+/android/assets/*.wav
+/android/assets/*.mp3
+/android/assets/scenarios.json
+/android/assets/voices.json
+# Signing material, robot connections and logs
+*.keystore
+*.jks
+*.apk
+*.aab
+*.apks
+*.log
+*.sqlite*
+*.db
+adb-transport.json
+rux-local*.json
+
+*.idsig
